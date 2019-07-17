@@ -1,2 +1,2 @@
 # hapo-js
-Using js make a single web app scrolling
+Using js make a Fullscreen Scrolling Websites
